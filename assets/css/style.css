@@ -28,4 +28,26 @@ main {
 #img{
     max-width: 100%;
     height: auto;
+    object-fit: contain;
+}
+
+/* CSS styles for tablets and under devices */
+@media (max-width: 768px) {
+     
+
+}
+
+/* Mobile devices*/
+@media(max-width: 500px) {
+    .navbar{
+        height: 110px
+    }
+
+    .navbar .flex {
+        flex-direction: column;
+
+     navbar ul {
+        padding: 10px
+     }
+    }
 }
