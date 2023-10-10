@@ -33,14 +33,25 @@ main {
 
 /* CSS styles for tablets and under devices */
 @media (max-width: 768px) {
-     
-
+    .grid,
+    .showcase .grid,
+    .stats .grid,
+    .cli .grid,
+    .cloud .grid,
+    .features-main .grid,
+    .docs-main .grid {
+      grid-template-columns: 1fr;
+      grid-template-rows: 1fr;
+    
+.showcase {
+    height: auto;
+}
 }
 
 /* Mobile devices*/
-@media(max-width: 500px) {
+@media(max-width: 80%) {
     .navbar{
-        height: 110px
+        height: 80%px
     }
 
     .navbar .flex {
