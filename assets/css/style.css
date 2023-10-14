@@ -5,12 +5,16 @@
     margin: 0;
     margin: 0 auto;
 }
-
+body {
+    background-color: bisque;
+}
+}
 main {
     display: flex;
     /* Forces elements to the next line if they don't fit */
     flex-wrap: wrap;
     margin-top: 2%;
+    
 }
 
 #pic {
