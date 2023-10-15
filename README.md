@@ -24,4 +24,5 @@ Also on the weekends, I work for whole foods part-time as a shopper.
 
  My deployed github web address: https://andrettaj.github.io/andrettajsportfolio/
  
-![This is the screen shot of my portfolio](image-3.png)
+![This is a screenshot of the 1st part of the image](image.png)
+![This is a screenshot of the 2nd part of the image](image-1.png)
