@@ -13,3 +13,4 @@ Here is my deployed github web address: https://andrettaj.github.io/andrettajspo
 
 ![This is a screenshot of the 1st part of the image](image.png)
 ![This is a screenshot of the 2nd part of the image](image-1.png)
+<img src="fit1.png" alt ="">(image.png)
