@@ -1,28 +1,15 @@
 # andrettajsportfolio
-#A portfolio to showcase my skills and talent
+##A portfolio to showcase my skills and talent
 
-This is my professional portfolio that has my resume and cover letter attached.
+This is my professional portfolio that describes information about me.
 
-It lists my experience. It has some class projects/assignments where I worked individually and with a group.#
+My motivation for this application was to put skills in a location where they can easily be accessed quickly and for possible future employers to review them.
 
-My cover letter and resume is a attached to the professional portfolio link.#
+This application is very benefical and easily accessable where I am where I can quickly enter and update my skills.  I can be on break my work and enter this information on my I phone, a tablet, or another computer, where I do not have to wait until I get home to update my skills.
 
-Currently, I work at a company called 'Maximus'#
+What makes my project stand out, is that I am always learning a new skill and it can show future employers the work I have done and they can make a quick decision to determine based on my portfolio if I am a possible fit for an interview or not waste any time and move onto the next candidate.  It makes the process alot faster.
 
-The State Contracts with them to process Health Care Applications.#
+Here is my deployed github web address: https://andrettaj.github.io/andrettajsportfolio/.
 
-These applications are for families to apply for health insurance for their kids.
-
-I work in the Eligibility Department as an Eligibility Specialists.
-
-I am also helping the finance department in accounts payable and receivables.
-
-There I am issuing refunds, creating workbooks (which is information regarding payments received that have not been processed by the applicants.), and invoices to send for the county for billing.#
-
-Also on the weekends, I work for whole foods part-time as a shopper.
-
-
- My deployed github web address: https://andrettaj.github.io/andrettajsportfolio/
- 
 ![This is a screenshot of the 1st part of the image](image.png)
 ![This is a screenshot of the 2nd part of the image](image-1.png)
