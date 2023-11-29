@@ -11,4 +11,4 @@ What makes my project stand out, is that I am always learning a new skill and it
 
 Here is my deployed github web address: https://andrettaj.github.io/andrettajsportfolio/.
 
-![Alt text](image-2.png)
+![Alt text](image-3.png)
